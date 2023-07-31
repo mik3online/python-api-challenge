@@ -15,6 +15,8 @@ FILE // WeatherPy.ipynb // Contents: Jupyter Notebook for Weather Linear Regress
 
 
 FILES in FOLDER "output_data" // 
+
+
 +cities.csv
 
 +Fig1.png
