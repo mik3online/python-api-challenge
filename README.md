@@ -13,6 +13,7 @@ FILE // VacationPy.ipynb // Contents:  Jupyter Notebook for Vacation Maps
 
 FILE // WeatherPy.ipynb // Contents: Jupyter Notebook for Weather Linear Regression Charts
 
+---------------------------------------
 
 FILES in FOLDER "output_data" // 
 
@@ -40,6 +41,8 @@ FILES in FOLDER "output_data" //
 +VacationPy_Map1
 
 +VacationPy_Map2_Hotels
+
+
 ---------------------------------------
 
 
